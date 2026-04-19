@@ -3,10 +3,11 @@
 Following K.N. King's "C Programming: A Modern Approach"
 as part of my path toward becoming an Embedded Systems Engineer.
 
-## Day 1
-- Installed GCC on Windows
-- Wrote and compiled first C program
-- Learned what gcc main.c -o main does
+## Day 2
+✅ Finished the first chapter which is an Introdunction to C (Its history and its strengthes and Weaknesses).
+✅ Wrote a the first program of the book Printing a Pun.
+✅ Leared about Compiling and Linking.
+✅ Learned about Directives.
 
 ## Tools
 - Compiler: GCC 15.2.0
